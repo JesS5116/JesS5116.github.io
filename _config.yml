@@ -22,10 +22,9 @@ author: Jesán VR
 navbar-links:
   About Me: "aboutme"
   Articles: "articles"
-  Resources:
-    - Github page: "https://github.com/JesS5116"
-    - Science divulgation: "https://www.acmor.org/publicaciones/el-dinero-que-no-existe-criptomonedas-y-energ-as-renovables"
-  Github page: "https://github.com/JesS5116"
+  Blogging:
+    - Quantum Computing: "quantumcomputing"
+    - Artifitial Intelligence: "ai"
 
 ################
 # --- Logo --- #
@@ -53,10 +52,10 @@ social-network-links:
   email: "vereij@ier.unam.mx"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: JesS5116
+  twitter: @jesan_velazquez
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -126,7 +125,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+#navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
@@ -141,7 +140,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
