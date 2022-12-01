@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My Website
+title: Jesán Velázquez-Reséndiz
 
 # Your name to show in the footer
-author: Some Person
+author: Jesán VR
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About Me"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Github page: "https://github.com/JesS5116"
+    - Science divulgation: "https://www.acmor.org/publicaciones/el-dinero-que-no-existe-criptomonedas-y-energ-as-renovables"
+  Github page: "https://github.com/JesS5116"
 
 ################
 # --- Logo --- #
