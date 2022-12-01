@@ -20,7 +20,8 @@ author: Jesán VR
 ###############################################
 
 navbar-links:
-  About Me: "About Me"
+  About Me: "aboutme"
+  Articles: "articles"
   Resources:
     - Github page: "https://github.com/JesS5116"
     - Science divulgation: "https://www.acmor.org/publicaciones/el-dinero-que-no-existe-criptomonedas-y-energ-as-renovables"
