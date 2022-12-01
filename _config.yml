@@ -22,9 +22,7 @@ author: Jesán VR
 navbar-links:
   About Me: "aboutme"
   Articles: "articles"
-  Blogging:
-    - Quantum Computing: "quantumcomputing"
-    - Artifitial Intelligence: "ai"
+  Blog: "blog"
 ################
 # --- Logo --- #
 ################
