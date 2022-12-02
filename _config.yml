@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Articles: "articles"
   Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Intro to Quantum Computing: "https://github.com/JesS5116/Intro_to_Quantum_Computing_Basics"
+    - OpenQAOA challenge: "https://github.com/JesS5116/OpenQAOA-Challenge---Qiskit-Fall-Fest-2022-Mexico"
 
 ################
 # --- Logo --- #
@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /path/to/image
+#title-img: /path/to/image
 
 
 #####################################
@@ -62,7 +62,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: jesanvr
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
