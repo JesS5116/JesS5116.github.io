@@ -128,11 +128,11 @@ navbar-var-length: false
 navbar-col: "#000000"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#000000"
-page-col: "#FFFFFF"
+page-col: "#454546"
 text-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#000000"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
@@ -140,9 +140,9 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/space.jpg"
-footer-img: "/assets/img/space.jpg"
-page-img: "/assets/img/space.jpg"
+#navbar-img: "/assets/img/space.jpg"
+#footer-img: "/assets/img/space.jpg"
+#page-img: "/assets/img/space.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
