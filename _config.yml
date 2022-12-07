@@ -50,11 +50,11 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: ier.png
+                college_name: IER-UNAM
+                college_url: https://www.ier.unam.mx/
+                college_degree: Renewable energy engineer
+                description: Bachelor of Engineering
                 visibility: true
 
 # Projects
@@ -107,9 +107,9 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
-show_author_project_details: true
+show_author_project_details: false
 
 # pagination of posts
 paginate: 4
