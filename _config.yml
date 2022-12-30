@@ -59,20 +59,20 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail:
+              - project_thumbnail: ier.png
                 project_title: PAPIIT IN106320
                 project_description: Polaritonic condensates for quantum simulation
                 project_url: 
                 visibility: true
-              - project_thumbnail: 
+              - project_thumbnail: lier.PNG
                 project_title: Professor assistant
                 project_description: Assistant for Electricity and Magnetism class
                 project_url: https://www.lier.unam.mx/plan-de-estudios/mapa-curricular
                 visibility: true
-              - project_thumbnail: 
+              - project_thumbnail: ier.png
                 project_title: PAPIME PE110319
                 project_description: Prototype and manual design for experimental activities for LIER-UNAM
-                project_url: https://www.lier.unam.mx/plan-de-estudios/mapa-curricular
+                project_url:
                 visibility: true
 
 # social links
