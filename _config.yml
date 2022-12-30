@@ -51,6 +51,15 @@ author_education_details:
                 description: Bachelor of Engineering
                 visibility: true
 
+# articles
+author_articles_details:
+              - articles_logo: cerdito.png
+                articles_name: El dinero que no existe: Criptomonedas y energías renovables
+                articles_url: https://www.acmor.org/publicaciones/el-dinero-que-no-existe-criptomonedas-y-energ-as-renovables
+                articles_type: Science divulgation
+                description: Energy analysis of the blockchain architecture and other cryptocurrencies
+                visibility: true
+
 # Projects
 author_project_details:
               - project_thumbnail: ier.png
@@ -104,6 +113,7 @@ permalink: pretty
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
+show_author_articles_details: true
 
 # pagination of posts
 paginate: 4
