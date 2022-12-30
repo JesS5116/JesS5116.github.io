@@ -18,3 +18,8 @@ Jesán Velázquez-Reséndiz is a graduate student of renewable energy engineer a
 Yuri Rubo is a pjysicist-engineer from the National University of Kiev, Ukraine, and has a PhD on physical-mathematical sciences from the Institute of Semiconductor Physics of the National Academy of Sciences of Ukraine. Currently, he's a Senior C researcher at the Renewable Energy Institute, UNAM, and is an active member of the Science Academy of Morelos.
 
 ***[Original publication](https://www.acmor.org/publicaciones/el-dinero-que-no-existe-criptomonedas-y-energ-as-renovables)***
+
+
+## Was there money before?
+
+![Porky with money](/assets/img/posts/cerdito.jpg "Porky with money") 
