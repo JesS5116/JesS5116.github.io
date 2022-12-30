@@ -51,15 +51,6 @@ author_education_details:
                 description: Bachelor of Engineering
                 visibility: true
 
-# articles
-author_articles_details:
-              - articles_logo: cerdito.png
-                articles_name: El dinero que no existe: Criptomonedas y energías renovables
-                articles_url: https://www.acmor.org/publicaciones/el-dinero-que-no-existe-criptomonedas-y-energ-as-renovables
-                articles_type: Science divulgation
-                description: Energy analysis of the blockchain architecture and other cryptocurrencies
-                visibility: true
-
 # Projects
 author_project_details:
               - project_thumbnail: ier.png
@@ -71,6 +62,26 @@ author_project_details:
                 project_title: PAPIME PE110319
                 project_description: Prototype and manual design for experimental activities for LIER-UNAM
                 project_url:
+                visibility: true
+              - project_thumbnail: qiskit.png
+                project_title: Qiskit Global Summer School on Quantum Machine Learning 2021
+                project_description: I earned the quantum excellence certificate for demostrate theoretical and practical knowledge on QML
+                project_url: https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021/
+                visibility: true
+              - project_thumbnail: qiskit.png
+                project_title: Qiskit Global Summer School on Quantum Simulation 2022
+                project_description: I earned the quantum excellence certificate for demostrate theoretical and practical knowledge on quantum simulation
+                project_url: https://qiskit.org/learn/summer-school/quantum-simulation-summer-school-2022/
+                visibility: true
+              - project_thumbnail: el.jpg
+                project_title: OpenQAOA Challenge
+                project_description: Challenge of finding good initial parameters to solve number partition with QAOA
+                project_url: https://github.com/JesS5116/OpenQAOA-Challenge---Qiskit-Fall-Fest-2022-Mexico
+                visibility: true
+              - project_thumbnail: xanadu.png
+                project_title: Toffoli Challenge
+                project_description: Challenge of finding parameters of U3 quantum gate to build a toffoli gate with CNOT, Haddamard and T gates
+                project_url: https://github.com/JesS5116/ToffoliChallenge_FallFestQiskit_Pennylane
                 visibility: true
 
 # social links
@@ -113,7 +124,6 @@ permalink: pretty
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
-show_author_articles_details: true
 
 # pagination of posts
 paginate: 4
