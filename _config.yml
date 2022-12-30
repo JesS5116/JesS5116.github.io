@@ -35,17 +35,11 @@ hero_cover_img: eso2105a.jpg # replace this for changing homepage cover (eg. try
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: IER-UNAM
+              company_logo: ier_unam.jpg
+              company_url: https://www.ier.unam.mx/
+              designation: Professor assistant
+              description: Assistant for Electricity and Magnetism class during 2023-2
               visibility: true
 
 # Education
@@ -59,15 +53,13 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_title: PAPIIT IN106320
+              - project_thumbnail: ier.png
+                project_title: PAPIIT IN106320
                 project_description: Polaritonic condensates for quantum simulation
                 project_url: 
                 visibility: true
-              - project_title: Professor assistant
-                project_description: Assistant for Electricity and Magnetism class
-                project_url: https://www.lier.unam.mx/plan-de-estudios/mapa-curricular
-                visibility: true
-              - project_title: PAPIME PE110319
+              - project_thumbnail: ier.png
+                project_title: PAPIME PE110319
                 project_description: Prototype and manual design for experimental activities for LIER-UNAM
                 project_url:
                 visibility: true
@@ -109,7 +101,7 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: false
+show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
 
