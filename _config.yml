@@ -48,9 +48,24 @@ author_work_experiences:
               description: Worked on various Azure Cloud Products
               visibility: true
 
+# Challenges
+author_challenges_details:
+            - company_name: IBM Quantum
+              company_logo: ibm_logo.jpg
+              company_url: https://www.ibm.com/quantum
+              designation: Global Summer School 2021
+              description: Qiskit Global Summer School on Quantum Machine Learning. Quantum excellence certificate
+              visibility: true
+            - company_name: IBM Quantum
+              company_logo: ibm_logo.jpg
+              company_url: https://www.ibm.com/quantum
+              designation: Global Summer School 2022
+              description: Qiskit Global Summer School on Quantum Simulation. Quantum excellence certificate
+              visibility: true
+
 # Education
 author_education_details:
-              - college_logo: ier_cuadro.png
+              - college_logo: ier_unam.jpg
                 college_name: IER-UNAM
                 college_url: https://www.ier.unam.mx/
                 college_degree: Renewable energy engineer
@@ -59,17 +74,17 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: ier_cuadro.png
+              - project_thumbnail: ier_unam.jpg
                 project_title: PAPIIT IN106320
                 project_description: Polaritonic condensates for quantum simulation
                 project_url: 
                 visibility: true
-              - project_thumbnail: ii_c.jpg
+              - project_thumbnail: ier_unam.jpg
                 project_title: Professor assistant
                 project_description: Assistant for Electricity and Magnetism class
                 project_url: https://www.lier.unam.mx/plan-de-estudios/mapa-curricular
                 visibility: true
-              - project_thumbnail: ier_cuadro.png
+              - project_thumbnail: ier_unam.jpg
                 project_title: PAPIME PE110319
                 project_description: Prototype and manual design for experimental activities for LIER-UNAM
                 project_url:
@@ -115,6 +130,7 @@ permalink: pretty
 show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
+show_author_challenges_details: true
 
 # pagination of posts
 paginate: 4
