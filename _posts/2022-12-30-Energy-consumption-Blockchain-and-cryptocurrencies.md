@@ -11,6 +11,10 @@ usemathjax: true
 permalink: /blog/Energy-consumption-Blockchain-and-cryptocurrencies/
 ---
 
-## Now Multiple Authors Can Create Articles:
+### *Jesán Velázquez-Reséndiz and Yuri Rubo*
 
+Jesán Velázquez-Reséndiz is a graduate student of renewable energy engineer at the Instituto de Energías Renovables, UNAM, Mexico. In 2021 and 2022 he obtained the certificate of Quantum Excellence granted by IBM Quantum for having demostrated theoretical and practical knowledge on Quantum Machine Learning and Quantum SImulation on the Qiskit Global Summer School on Quantum Machine Learning (2021) and the Qiskit Global Summer School on Quantum Simulation (2022), respectively.
 
+Yuri Rubo is a pjysicist-engineer from the National University of Kiev, Ukraine, and has a PhD on physical-mathematical sciences from the Institute of Semiconductor Physics of the National Academy of Sciences of Ukraine. Currently, he's a Senior C researcher at the Renewable Energy Institute, UNAM, and is an active member of the Science Academy of Morelos.
+
+***[Original publication](https://www.acmor.org/publicaciones/el-dinero-que-no-existe-criptomonedas-y-energ-as-renovables)***
