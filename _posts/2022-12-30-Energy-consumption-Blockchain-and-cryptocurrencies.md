@@ -5,7 +5,7 @@ summary: "The new technologies are arriving, and the money it's not an exception
 author: jesan_vr
 date: '2022-12-30 12:44:30 +0530'
 category: science_divulgation
-thumbnail: /assets/img/posts/science_divulgation/crypto_energy/consumo_energetico.jpg
+thumbnail: /assets/img/posts/consumo_energetico.jpg
 keywords: blockchain, crypto, energy consumption, bitcoin
 usemathjax: true
 permalink: /blog/Energy-consumption-Blockchain-and-cryptocurrencies/
