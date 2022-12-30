@@ -1,6 +1,6 @@
 ---
-name: John Doe
-username: johndoe
+name: Jesán VR
+username: jesan_vr
 bio: "Hi I'm Jesan, an engineer and physicists"
 site: https://jess5116.github.io/
 avatar: photo.jpg
